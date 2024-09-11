@@ -1,0 +1,142 @@
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\obj\Debug\net8.0\TuristickiHub.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\obj\Debug\net8.0\TuristickiHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\obj\Debug\net8.0\TuristickiHub.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\obj\Debug\net8.0\TuristickiHub.AssemblyInfo.cs
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\obj\Debug\net8.0\TuristickiHub.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\obj\Debug\net8.0\TuristickiHub.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\obj\Debug\net8.0\TuristickiHub.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\appsettings.json
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\TuristickiHub.exe
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\TuristickiHub.deps.json
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\TuristickiHub.runtimeconfig.json
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\TuristickiHub.dll
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\TuristickiHub.pdb
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\DnsClient.dll
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\Snappier.dll
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\obj\Debug\net8.0\staticwebassets\msbuild.TuristickiHub.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\obj\Debug\net8.0\staticwebassets\msbuild.build.TuristickiHub.props
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TuristickiHub.props
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TuristickiHub.props
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\obj\Debug\net8.0\scopedcss\bundle\TuristickiHub.styles.css
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\obj\Debug\net8.0\TuristickiHub.csproj.CopyComplete
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\obj\Debug\net8.0\TuristickiHub.dll
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\obj\Debug\net8.0\refint\TuristickiHub.dll
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\obj\Debug\net8.0\TuristickiHub.pdb
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\obj\Debug\net8.0\TuristickiHub.genruntimeconfig.cache
+C:\Users\PC\Documents\IV godina\VII\NBP\MongoDB\TuristickiHub\obj\Debug\net8.0\ref\TuristickiHub.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\appsettings.json
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\TuristickiHub.exe
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\TuristickiHub.deps.json
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\TuristickiHub.runtimeconfig.json
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\TuristickiHub.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\TuristickiHub.pdb
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\DnsClient.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\Snappier.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\TuristickiHub.csproj.AssemblyReference.cache
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\TuristickiHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\TuristickiHub.AssemblyInfoInputs.cache
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\TuristickiHub.AssemblyInfo.cs
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\TuristickiHub.csproj.CoreCompileInputs.cache
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\TuristickiHub.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\TuristickiHub.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\TuristickiHub.sourcelink.json
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\staticwebassets\msbuild.TuristickiHub.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\staticwebassets\msbuild.build.TuristickiHub.props
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TuristickiHub.props
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TuristickiHub.props
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\scopedcss\bundle\TuristickiHub.styles.css
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\TuristickiHub.csproj.CopyComplete
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\TuristickiHub.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\refint\TuristickiHub.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\TuristickiHub.pdb
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\TuristickiHub.genruntimeconfig.cache
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\NBP-MongoDB\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\ref\TuristickiHub.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\appsettings.json
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\TuristickiHub.exe
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\TuristickiHub.deps.json
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\TuristickiHub.runtimeconfig.json
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\TuristickiHub.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\TuristickiHub.pdb
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\DnsClient.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\Snappier.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\TuristickiHub.csproj.AssemblyReference.cache
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\TuristickiHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\TuristickiHub.AssemblyInfoInputs.cache
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\TuristickiHub.AssemblyInfo.cs
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\TuristickiHub.csproj.CoreCompileInputs.cache
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\TuristickiHub.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\TuristickiHub.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\staticwebassets\msbuild.TuristickiHub.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\staticwebassets\msbuild.build.TuristickiHub.props
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TuristickiHub.props
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TuristickiHub.props
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\scopedcss\bundle\TuristickiHub.styles.css
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\TuristickiHub.csproj.CopyComplete
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\TuristickiHub.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\refint\TuristickiHub.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\TuristickiHub.pdb
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\TuristickiHub.genruntimeconfig.cache
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\obj\Debug\net8.0\ref\TuristickiHub.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\Isopoh.Cryptography.Argon2.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\Isopoh.Cryptography.Blake2b.dll
+C:\Users\ANASTASIJA\Desktop\Fakultet\VII semestar\Napredne baze podataka\MongoDB\BackEnd\TuristickiHub\bin\Debug\net8.0\Isopoh.Cryptography.SecureArray.dll
